@@ -6,7 +6,7 @@
 ## Repository Structure
 
 ```
-i23-XXXX-NLP-Assignment2/
+i23-2546-NLP-Assignment2/
 ├── NLP_Assignment2.ipynb       ← Main notebook (all cells must be executed)
 ├── README.md                   ← This file
 ├── embeddings/
